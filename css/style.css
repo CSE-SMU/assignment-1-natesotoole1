@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+/* in the assignment it says to make this red */
+button {
+	background:blue;
+	color:white;
+}
+
+/* and than it asks to change the color of the button to blue */
+
+button.active {
+	background:red;
+}
+
+#active{
+	display:none;
+}
+#inactive{
+	display:block;
+}
+
+/* but when in the gradic rubric it says to have the start off color as blue and change to red */
